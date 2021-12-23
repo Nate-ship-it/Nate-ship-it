@@ -11,7 +11,7 @@
   <body>
     <h1> Distortion </h1>
     <h2>By [Nathan Magloire]</h2>
-    <p>Short paragraph introducing the story. What is it about? Why did you make it? If it is related to a political/social cause, how would you summarize the message you are trying to convey?</p>
+    <p>The story that would be told is about a man that goes by Nathan. We’ll see his perception in life. When it comes to hearing, he hears multiple voices and sounds all at once. The audience would notice a basketball player with multiple: pieces of equipment attached to one being. Sports represents Nathan tremendously because he finds it entertaining to play and watch. Video games also assisted Nathan as they helped expand his imagination. He used to like red. As he grew into a teenager, he started liking blue more. He sees burgundy as a red shade that’s dying. While; looking at sky blue, more of living color. Overall this is the story of Nathan.</p>
     <!--Code for image. Can also be used for GIF-->
     <img src="media/imageStandIn.png" alt="describe your image here" width="750"/>
     <!--Code for video-->
@@ -24,11 +24,19 @@
     <source src="nameofaudio.mp3" type="audio/mpeg">
     Your browser does not support the audio element.    
     </audio>
-    <!--The code for the p5 sketch can be found in sketch.js if you don't want a p5 sketch on your webpage, delete that file from the folder).-->
-    <div id="sketch-holder">
-    <!-- Our sketch will go here! -->
+    <!--Images).-->
+    <div id="Nate-ship-it/Self-ImagePortrait.jpg">
+    <!-- Nate-ship-it/Nathan-Magloire-Pixel Character-John Foe.psd -->
     </div>
     <!-- don't forget to credit CC licensed sources-->
-    <p class="credits">Credits: Smith, John. “Image Stand In” Flickr. Yahoo! Web. 7 Apr. 2011</p>
+    <p class="credits">Credits: "160616 benjamins 1 copy 4" by seanduckmusic is licensed with CC BY-NC-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/ "Swan wings." by hegarty_david is licensed with CC BY-NC 2.0. To view a copy of this
+license, visit https://creativecommons.org/licenses/by-nc/2.0/ "File:LeBronJamesMiamiHeat2010.jpg" by Keith Allison (Keith Allison) from Baltimore is
+licensed with CC BY-SA 2.0. To view a copy of this license, visit
+https://creativecommons.org/licenses/by-sa/2.0 "Kopanya Ball" by Shine 2010 - 2010 World Cup good news is licensed with CC BY-NC-SA
+2.0. To view a copy of this license, visit
+https://creativecommons.org/licenses/by-nc-sa/2.0/ "NBA Spalding Basketball" by jasonpearce is licensed with CC BY-NC-SA 2.0. To view a
+copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/2.0/ "File:Dualshock 4 Layout.svg" by Tokyoship is licensed with CC BY 3.0. To view a copy of
+this license, visit https://creativecommons.org/licenses/by/3.0, Photoshop collage, Illustrator image, Audacity, Creative Commons, Ccmixer, Github
+ </p>
   </body>
 </html>
