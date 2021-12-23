@@ -1,19 +1,23 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="English">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>p5.js example</title>
+    <Nate-ship-it/FinalProject>p5.js
     <script src="p5.min.js"></script>
     <script src="sketch.js"></script>
     <link rel="stylesheet" type="text/css" href="styles.css">
-  </head>
+  </- 👋 Hi, I’m Nathan Magloire
+- 👀 I’m interested in being a successful student 
+- 🌱 I’m currently learning Animations & Motion Graphics at Borough of Manhattan Community College.
+- 💞️ I’m looking to develop video games in the future. 
+- 📫 How to reach me nathan.magloire@stu.bmcc.cuny.edu>
   <body>
     <h1> Distortion </h1>
     <h2>By [Nathan Magloire]</h2>
     <p>The story that would be told is about a man that goes by Nathan. We’ll see his perception in life. When it comes to hearing, he hears multiple voices and sounds all at once. The audience would notice a basketball player with multiple: pieces of equipment attached to one being. Sports represents Nathan tremendously because he finds it entertaining to play and watch. Video games also assisted Nathan as they helped expand his imagination. He used to like red. As he grew into a teenager, he started liking blue more. He sees burgundy as a red shade that’s dying. While; looking at sky blue, more of living color. Overall this is the story of Nathan.</p>
     <!--Code for image. Can also be used for GIF-->
-    <img src="media/imageStandIn.png" alt="describe your image here" width="750"/>
+    <img src="myself-image-portrait.jpg/media/imageStandIn.png" alt="Hello, my name is Nathan Magloire and, I’m 21 years old. I was born in Miami, Florida. Then I moved to Brooklyn, New York when I was three years old. The places I visited outside New York and Florida are New Jersey and Washington D.C. My family is from Haiti and Martinique. The languages I speak in English and French Creole. Animations and Motion Graphics is what I’m currently majoring in. As for the future, I plan on developing video games." width="750"/>
     <!--Code for video-->
     <video controls width="750">
     <source src="media/nameofvideo.mp4" type="video/mp4">
