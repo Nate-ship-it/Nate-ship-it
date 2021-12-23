@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nate-ship-it
+- 👋 Hi, I’m Nathan Magloire
 - 👀 I’m interested in being a successful student 
 - 🌱 I’m currently learning Animations & Motion Graphics at Borough of Manhattan Community College.
 - 💞️ I’m looking to develop video games in the future. 
